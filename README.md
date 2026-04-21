@@ -41,6 +41,6 @@ I care less about squeezing the last point of accuracy out of a model and more a
 
 ## Connect
 
-📧 xcai2@scu.edu
+📧 caix8655@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/celia-cai-96a887383/)
 🎓 Santa Clara University · MSIS
