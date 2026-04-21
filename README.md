@@ -4,7 +4,7 @@ MSIS @ Santa Clara University. I build AI-powered analytical systems that turn m
 
 ## What I'm Building
 
-### 🎯 Flex Competitive Intelligence Platform — *Practicum capstone*
+### 🎯 Flex Competitive Intelligence Platform 
 **[Flex-Practicum-Project-2026](https://github.com/xcai2/Flex-Practicum-Project-2026)**
 
 An AI-powered competitive intelligence tool built for Flex to monitor its five closest competitors in contract manufacturing — Jabil, Celestica, Benchmark, Sanmina, and Plexus. Team of four over 6 months as our SCU practicum project.
