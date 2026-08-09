@@ -1,6 +1,6 @@
 # Xin Cai
 
-MSIS @ Santa Clara University. I build AI-powered analytical systems that turn messy filings, news, and operational data into something a decision-maker can actually act on.
+I build AI-powered analytical systems that turn messy filings, news, and operational data into something a decision-maker can actually act on.
 
 ## What I'm Building
 
