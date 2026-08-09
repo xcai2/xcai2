@@ -7,7 +7,7 @@ I build AI-powered analytical systems that turn messy filings, news, and operati
 ### 🎯 EMS Intelligence Platform
 **[EMS-Intelligence-Platform](https://github.com/xcai2/EMS-Intelligence-Platform)**
 
-An AI-powered competitive intelligence tool built for Flex to monitor its five closest competitors in contract manufacturing — Jabil, Celestica, Benchmark, Sanmina, and Plexus. Team of four over 6 months as our SCU practicum project.
+An AI-powered competitive intelligence tool built for Flex to monitor its five closest competitors in contract manufacturing — Jabil, Celestica, Benchmark, Sanmina, and Plexus. Team of four over 6 months as our practicum project.
 
 **What it does.** Ingests ~405 SEC filings (10-K, 10-Q, earnings calls), USPTO patents, job postings, and real-time news across all six companies, embeds everything into ChromaDB (768-dim sentence transformers), and answers natural-language questions by retrieving relevant chunks and running them through Claude with citations. Hybrid mode merges document retrieval with live Brave Search so answers stay current past the filing date.
 
